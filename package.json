@@ -1,0 +1,23 @@
+{
+  "name": "botkit-storage-firebase",
+  "version": "1.0.0",
+  "description": "Firebase driver for Botkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colestrode/botkit-storage-firebase.git"
+  },
+  "keywords": [
+    "botkit",
+    "firebase"
+  ],
+  "author": "Cole Furfaro-Strode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colestrode/botkit-storage-firebase/issues"
+  },
+  "homepage": "https://github.com/colestrode/botkit-storage-firebase#readme"
+}
