@@ -4,6 +4,7 @@
   "description": "Firebase driver for Botkit",
   "main": "index.js",
   "scripts": {
+    "pretest": "jscs ./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/colestrode/botkit-storage-firebase/issues"
   },
-  "homepage": "https://github.com/colestrode/botkit-storage-firebase#readme"
+  "homepage": "https://github.com/colestrode/botkit-storage-firebase#readme",
+  "dependencies": {
+    "firebase": "^2.3.2"
+  },
+  "devDependencies": {
+    "jscs": "^2.8.0"
+  }
 }
